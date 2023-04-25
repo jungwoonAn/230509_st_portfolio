@@ -18,12 +18,12 @@
 
 8. 이은지 https://lej99.github.io/mini_blog
 
-9. 김민경 https://minkyung05.github.io/final-project.-universe/
+9. 남성주 https://namseongju0.github.io/
 
-10. 남성주 https://namseongju0.github.io/
+10. 탁유림 https://zhzhahd.github.io/portfolio/
 
-11. 탁유림 https://zhzhahd.github.io/portfolio/
+11. 양성수 https://yangsungsu94.github.io/all_portfolio/
 
-12. 양성수 https://yangsungsu94.github.io/all_portfolio/
+12. 장유정 https://jyj147.github.io/portfolio/
 
-13. 장유정 https://jyj147.github.io/portfolio/
+13. 김민경 https://minkyung05.github.io/final-project.-universe/
