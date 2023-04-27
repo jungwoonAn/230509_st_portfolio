@@ -18,7 +18,7 @@
 
 8. 이은지 https://lej99.github.io/mini_blog
 
-9. 남성주 https://namseongju0.github.io/
+9. 남성주 https://namseongju0.github.io/ (수정중)
 
 10. 탁유림 https://zhzhahd.github.io/portfolio/
 
