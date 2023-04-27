@@ -22,8 +22,8 @@
 
 10. 탁유림 https://zhzhahd.github.io/portfolio/
 
-11. 양성수 https://yangsungsu94.github.io/all_portfolio/
+11. 양성수 https://yangsungsu94.github.io/all_portfolio/ (80% 진행중)
 
 12. 장유정 https://jyj147.github.io/portfolio/
 
-13. 김민경 https://minkyung05.github.io/final-project.-universe/
+13. 김민경 https://minkyung05.github.io/final-project.-universe/ (70% 진행중)
