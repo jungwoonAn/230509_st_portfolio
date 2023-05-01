@@ -26,4 +26,4 @@
 
 12. 양성수 https://yangsungsu94.github.io/all_portfolio/ (80% 진행중)
 
-13. 김민경 https://minkyung05.github.io/final-project.-universe/ (70% 진행중)
+13. 김민경 https://minkyung05.github.io/final_portfolio/ (70% 진행중)
