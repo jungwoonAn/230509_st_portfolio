@@ -24,6 +24,6 @@
 
 11. 남성주 https://namseongju0.github.io/ (수정중)
 
-12. 양성수 https://yangsungsu94.github.io/all_portfolio/ (80% 진행중)
+12. 양성수 https://yangsungsu94.github.io/all_portfolio/ (수정중)
 
 13. 김민경 https://minkyung05.github.io/final_portfolio/ (70% 진행중)
