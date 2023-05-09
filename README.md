@@ -20,7 +20,7 @@
 
 9. 이은지 https://lej99.github.io/mini_blog
 
-10. 탁유림 https://zhzhahd.github.io/portfolio/
+10. 탁유림 https://zhzhahd.github.io/PORTFOLIO1/
 
 11. 남성주 https://namseongju0.github.io/
 
